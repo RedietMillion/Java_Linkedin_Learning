@@ -2,7 +2,7 @@ If you want to build applications for mobile devices, desktop computers, or the 
 
 Learning objectives 
 
--The history and principles of Java 
+-  The history and principles of Java 
 -  Installing the JDK and IntelliJ IDEA
 - Working with variables and values
 - Working with object data types
