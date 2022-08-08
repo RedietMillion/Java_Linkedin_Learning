@@ -10,5 +10,7 @@ public class Main {
         String nothing = "   ";
 
         List<String> animals = List.of(panda, fish, horse, cat, nothing);
+        
+        animals.stream().forEach(s -> System.out.println(s.trim()));
     }
 }
